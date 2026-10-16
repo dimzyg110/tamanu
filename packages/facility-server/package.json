@@ -60,7 +60,7 @@
     "case": "^1.6.3",
     "chance": "^1.1.8",
     "commander": "^9.0.0",
-    "compression": "^1.7.2",
+    "compression": "^1.8.2",
     "config": "^3.3.9",
     "date-fns": "^2.25.0",
     "decimal.js": "^10.4.3",
