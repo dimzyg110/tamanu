@@ -117,6 +117,6 @@
     "winston": "^3.2.1",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz",
     "yup": "^0.32.9",
-    "zod": "^4.0.17"
+    "zod": "^4.6.6"
   }
 }

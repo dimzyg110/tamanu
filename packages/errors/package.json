@@ -24,7 +24,7 @@
     "@tamanu/constants": "*",
     "lodash": "^4.17.21",
     "yup": "^0.32.9",
-    "zod": "^4.0.17"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^18.14.6",
